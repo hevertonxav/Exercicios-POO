@@ -1,4 +1,4 @@
-package javaPoo.LigaDesligaLampada;
+package curso.javaPoo.LigaDesligaLampada;
 
 public class LigaDesligaLampada {
 	

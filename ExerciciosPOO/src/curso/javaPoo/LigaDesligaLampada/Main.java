@@ -1,4 +1,4 @@
-package javaPoo.LigaDesligaLampada;
+package curso.javaPoo.LigaDesligaLampada;
 
 /*
  Escreva uma classe para representar uma lâmpada. Desenvolva
